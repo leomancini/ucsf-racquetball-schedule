@@ -1,0 +1,1 @@
+![screenshot](https://github.com/leomancini31/imac-g4/blob/master/screenshots/desktop.png)
